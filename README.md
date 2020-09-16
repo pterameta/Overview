@@ -1,3 +1,5 @@
+# Overview
+
 COGS 138 - Neural Data Science - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Bradley Voytek and co-developed with Professor Ashley Juavinett. Here is an overview and map of the COGS 138 Organization, which hosts materials and assignments for the class.
 
 ## Syllabus 

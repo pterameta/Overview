@@ -12,7 +12,7 @@ Slides and materials will be organized by week. Links to lecture slides and note
 
 ## Tutorials
 
-We've begun to put together basic tutorials for core concepts [here](/Tutorials)
+We've begun to put together basic tutorials for core concepts [here](https://github.com/NeuralDataScience/Tutorials)
 
 ## Assignments
 

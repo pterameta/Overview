@@ -8,16 +8,11 @@ The most recent iteration of this class is the upcoming winter quarter 2022, the
 
 ## Lectures
 
-Slides and materials will be organized by week. All links to class videos, slides, and notebooks will be included here.
+Slides and materials will be organized by week. Links to lecture slides and notebooks will be included here.
 
-## Discussion Section
+## Tutorials
 
-Materials forthcoming
-
-* Section Materials
-* Tutorial Notebooks
-* Practice Notebooks
-* Workbooks
+We've begun to put together basic tutorials for core concepts [here](https://github.com/NeuralDataScience/Tutorials)
 
 ## Assignments
 

@@ -4,7 +4,7 @@ COGS 138 - Neural Data Science - is a class offered by the Cognitive Science Dep
 
 ## Syllabus
 
-The most recent iteration of this class is the upcoming winter quarter 2022, the [**syllabus**](https://github.com/NeuralDataScience/Overview/blob/master/COGS138_Wi22.pdf) for which is in progress.
+The most recent iteration of this class is the upcoming winter quarter 2022, the [**syllabus**](COGS138_Wi22.pdf) for which is in progress.
 
 ## Lectures
 
@@ -12,7 +12,7 @@ Slides and materials will be organized by week. Links to lecture slides and note
 
 ## Tutorials
 
-We've begun to put together basic tutorials for core concepts [here](https://github.com/NeuralDataScience/Tutorials)
+We've begun to put together basic tutorials for core concepts [here](/Tutorials)
 
 ## Assignments
 
